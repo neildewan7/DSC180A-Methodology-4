@@ -2,7 +2,7 @@
 layout: default
 ---
 
-# Neil Dewan
+# Neil Dewan 
 ndewan@ucsd.edu
 
 Section: D35 -Blockchain
