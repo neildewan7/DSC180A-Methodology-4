@@ -6,6 +6,7 @@ layout: default
 ndewan@ucsd.edu
 
 Section: D35 -Blockchain
+
 Mentor: Rajesh Gupta
 
 **What is the most interesting topic covered in your domain this quarter?**
